@@ -4,13 +4,8 @@
   "description": "Basic To DO/ Memo app using Node.js",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js",
-    "heroku-postbuild": "npm install npm && run build"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "engines": {
-    "node": "15.2.1"
-},
   "keywords": [
     "To-Do",
     "App"
