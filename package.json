@@ -5,15 +5,11 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "heroku-postbuild": "NPM_CONFIG_PRODUCTION=false npm install npm && run build"
   },
   "keywords": [
     "To-Do",
     "App"
   ],
-  "engines": {
-    "node": "10.16.0"
-},
   "author": "Yogi2103",
   "license": "ISC",
   "dependencies": {
